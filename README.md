@@ -24,7 +24,7 @@
       <h3 align="center">Portfolio</h3>
         <br />
         <a target="_blank" href="https://lenhardt-webdev.netlify.app">
-            <img src="https://raw.githubusercontent.com/K-Lenhardt/Portfolio/main/coverimg/Portfolio.gif" width="50%" alt="Portfolio"/>
+            <img src="https://raw.githubusercontent.com/K-Lenhardt/Portfolio/main/coverimg/Portfolio.gif" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
