@@ -24,7 +24,7 @@
       <h3 align="center">Portfolio 2022</h3>
         <br />
         <a target="_blank" href="https://lenhardt-webdev.netlify.app">
-            <img src="images/gif1.gif" width="100%" alt="Portfolio"/>
+            <img src="[images/gif1.gif](https://raw.githubusercontent.com/K-Lenhardt/Portfolio/main/coverimg/Portfolio.gif)" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
